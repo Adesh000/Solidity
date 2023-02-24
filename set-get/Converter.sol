@@ -25,5 +25,4 @@ contract EtherConverter {
         n = num;
     }
 
-   
 }
